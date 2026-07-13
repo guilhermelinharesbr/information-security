@@ -35,3 +35,12 @@ Segurança da informação é a prática de proteger dados físicos e digitais c
 
 
 ---
+
+#### Pilares
+
+
+![5 Pilares parte 1](./images/pilares_da_seguranca_parte1.png " Imagem sobre Pilares da Segurança parte 1")
+
+![5 Pilares parte 2](./images/pilares_da_seguranca_parte2.png " Imagem sobre Pilares da Segurança parte 2")
+
+---
