@@ -2,9 +2,15 @@
 
 ---
 
+Módulo 1 
+início 15/07/26
+fim 
+aula 3/18
+
 Módulo 0 
 início 09/07/26
-aula 14/18
+fim 15/07/26
+aula 18/18
 
 
 #### Sumário
