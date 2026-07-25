@@ -2,10 +2,15 @@
 
 ---
 
+Módulo 3
+início 25/07/26
+fim ??????
+aula 1/19
+
 Módulo 2
 início 22/07/26
-fim ????
-aula 25/27
+fim 25/07/26
+aula 27/27
 
 Módulo 1 
 início 15/07/26
