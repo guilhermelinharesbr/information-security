@@ -23,6 +23,12 @@ fim 15/07/26
 aula 18/18
 
 
+PARA estudo futuro:
+- Bitwarden
+- onePassword
+
+
+
 #### Sumário
 - [Definição](#definição)
 - [Cartilha Cert.br](#cartilha-certbr)
