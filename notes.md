@@ -5,7 +5,7 @@
 Módulo 3
 início 25/07/26
 fim ??????
-aula 10/19
+aula 11/19
 
 Módulo 2
 início 22/07/26
