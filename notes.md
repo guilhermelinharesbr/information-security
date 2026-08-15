@@ -2,10 +2,15 @@
 
 ---
 
+Módulo 4
+início 15/08/26
+fim ??????
+aula 3/17
+
 Módulo 3
 início 25/07/26
-fim ??????
-aula 16/19
+fim 14/08/26
+aula 19/19
 
 Módulo 2
 início 22/07/26
