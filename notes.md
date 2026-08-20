@@ -4,9 +4,8 @@
 
 Módulo 4
 início 15/08/26
-fim ??????
-aula 12/17
-FALTA: aulas 04,05,06,07,encerramento
+fim 20/08/26
+aula 17/17
 
 Módulo 3
 início 25/07/26
